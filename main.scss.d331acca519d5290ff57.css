@@ -51,9 +51,9 @@ h3 {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 300;
-  src: url(fonts/roboto-v19-latin-ext_latin-300.796fd35eb31b5409ca7fb76ada79e1f9.eot);
+  src: url(src/assets/fonts/roboto-v19-latin-ext_latin-300.796fd35eb31b5409ca7fb76ada79e1f9.eot);
   /* IE9 Compat Modes */
-  src: local("Roboto Light"), local("Roboto-Light"), url(fonts/roboto-v19-latin-ext_latin-300.796fd35eb31b5409ca7fb76ada79e1f9.eot?#iefix) format("embedded-opentype"), url(fonts/roboto-v19-latin-ext_latin-300.56ecfc67855e255d92db6f6fcb97143e.woff2) format("woff2"), url(fonts/roboto-v19-latin-ext_latin-300.f4b08b5a857ef12352aaf0ebc1316460.woff) format("woff"), url(fonts/roboto-v19-latin-ext_latin-300.4446dd9ba9b1e2234e64b4d777d06e6e.ttf) format("truetype");
+  src: local("Roboto Light"), local("Roboto-Light"), url(src/assets/fonts/roboto-v19-latin-ext_latin-300.796fd35eb31b5409ca7fb76ada79e1f9.eot?#iefix) format("embedded-opentype"), url(src/assets/fonts/roboto-v19-latin-ext_latin-300.56ecfc67855e255d92db6f6fcb97143e.woff2) format("woff2"), url(src/assets/fonts/roboto-v19-latin-ext_latin-300.f4b08b5a857ef12352aaf0ebc1316460.woff) format("woff"), url(src/assets/fonts/roboto-v19-latin-ext_latin-300.4446dd9ba9b1e2234e64b4d777d06e6e.ttf) format("truetype");
   /* Safari, Android, iOS */ }
 
 /* roboto-300italic - latin-ext_latin */
@@ -61,9 +61,9 @@ h3 {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 300;
-  src: url(fonts/roboto-v19-latin-ext_latin-300italic.d48b2a29fb755d25a74b55186552c058.eot);
+  src: url(src/assets/fonts/roboto-v19-latin-ext_latin-300italic.d48b2a29fb755d25a74b55186552c058.eot);
   /* IE9 Compat Modes */
-  src: local("Roboto Light Italic"), local("Roboto-LightItalic"), url(fonts/roboto-v19-latin-ext_latin-300italic.d48b2a29fb755d25a74b55186552c058.eot?#iefix) format("embedded-opentype"), url(fonts/roboto-v19-latin-ext_latin-300italic.3ca82170010142e8d8e27123bd96b906.woff2) format("woff2"), url(fonts/roboto-v19-latin-ext_latin-300italic.93981f85cc62db28474c71aad0e397db.woff) format("woff"), url(fonts/roboto-v19-latin-ext_latin-300italic.89dce89c9a03d409b769b1eb03f4d45f.ttf) format("truetype");
+  src: local("Roboto Light Italic"), local("Roboto-LightItalic"), url(src/assets/fonts/roboto-v19-latin-ext_latin-300italic.d48b2a29fb755d25a74b55186552c058.eot?#iefix) format("embedded-opentype"), url(src/assets/fonts/roboto-v19-latin-ext_latin-300italic.3ca82170010142e8d8e27123bd96b906.woff2) format("woff2"), url(src/assets/fonts/roboto-v19-latin-ext_latin-300italic.93981f85cc62db28474c71aad0e397db.woff) format("woff"), url(src/assets/fonts/roboto-v19-latin-ext_latin-300italic.89dce89c9a03d409b769b1eb03f4d45f.ttf) format("truetype");
   /* Safari, Android, iOS */ }
 
 /* roboto-regular - latin-ext_latin */
@@ -71,9 +71,9 @@ h3 {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 400;
-  src: url(fonts/roboto-v19-latin-ext_latin-regular.56a31de4e721adf1089b00ddfad6f29c.eot);
+  src: url(src/assets/fonts/roboto-v19-latin-ext_latin-regular.56a31de4e721adf1089b00ddfad6f29c.eot);
   /* IE9 Compat Modes */
-  src: local("Roboto"), local("Roboto-Regular"), url(fonts/roboto-v19-latin-ext_latin-regular.56a31de4e721adf1089b00ddfad6f29c.eot?#iefix) format("embedded-opentype"), url(fonts/roboto-v19-latin-ext_latin-regular.c5bf51b68dc9fd7fe944d8947fe12518.woff2) format("woff2"), url(fonts/roboto-v19-latin-ext_latin-regular.d679a90608a65cc9394f67448ca2094a.woff) format("woff"), url(fonts/roboto-v19-latin-ext_latin-regular.2cc6fa7410c7b7b6b79786f5792d73b8.ttf) format("truetype");
+  src: local("Roboto"), local("Roboto-Regular"), url(src/assets/fonts/roboto-v19-latin-ext_latin-regular.56a31de4e721adf1089b00ddfad6f29c.eot?#iefix) format("embedded-opentype"), url(src/assets/fonts/roboto-v19-latin-ext_latin-regular.c5bf51b68dc9fd7fe944d8947fe12518.woff2) format("woff2"), url(src/assets/fonts/roboto-v19-latin-ext_latin-regular.d679a90608a65cc9394f67448ca2094a.woff) format("woff"), url(src/assets/fonts/roboto-v19-latin-ext_latin-regular.2cc6fa7410c7b7b6b79786f5792d73b8.ttf) format("truetype");
   /* Safari, Android, iOS */ }
 
 /* roboto-italic - latin-ext_latin */
@@ -81,9 +81,9 @@ h3 {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 400;
-  src: url(fonts/roboto-v19-latin-ext_latin-italic.0b13c4345a0e323b61e6f631bf8f1f1d.eot);
+  src: url(src/assets/fonts/roboto-v19-latin-ext_latin-italic.0b13c4345a0e323b61e6f631bf8f1f1d.eot);
   /* IE9 Compat Modes */
-  src: local("Roboto Italic"), local("Roboto-Italic"), url(fonts/roboto-v19-latin-ext_latin-italic.0b13c4345a0e323b61e6f631bf8f1f1d.eot?#iefix) format("embedded-opentype"), url(fonts/roboto-v19-latin-ext_latin-italic.a586006328cfe80de786d8d63d47ab94.woff2) format("woff2"), url(fonts/roboto-v19-latin-ext_latin-italic.c36a51c52597b394bf7967203da46176.woff) format("woff"), url(fonts/roboto-v19-latin-ext_latin-italic.1c2100915920a762b63b9f0d644359c9.ttf) format("truetype");
+  src: local("Roboto Italic"), local("Roboto-Italic"), url(src/assets/fonts/roboto-v19-latin-ext_latin-italic.0b13c4345a0e323b61e6f631bf8f1f1d.eot?#iefix) format("embedded-opentype"), url(src/assets/fonts/roboto-v19-latin-ext_latin-italic.a586006328cfe80de786d8d63d47ab94.woff2) format("woff2"), url(src/assets/fonts/roboto-v19-latin-ext_latin-italic.c36a51c52597b394bf7967203da46176.woff) format("woff"), url(src/assets/fonts/roboto-v19-latin-ext_latin-italic.1c2100915920a762b63b9f0d644359c9.ttf) format("truetype");
   /* Safari, Android, iOS */ }
 
 /* roboto-700 - latin-ext_latin */
@@ -91,9 +91,9 @@ h3 {
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 700;
-  src: url(fonts/roboto-v19-latin-ext_latin-700.1b13116aa31556ad3fbc445b387f0c61.eot);
+  src: url(src/assets/fonts/roboto-v19-latin-ext_latin-700.1b13116aa31556ad3fbc445b387f0c61.eot);
   /* IE9 Compat Modes */
-  src: local("Roboto Bold"), local("Roboto-Bold"), url(fonts/roboto-v19-latin-ext_latin-700.1b13116aa31556ad3fbc445b387f0c61.eot?#iefix) format("embedded-opentype"), url(fonts/roboto-v19-latin-ext_latin-700.52bb58c8cb04cf3eea4f9ac0afa1d1f6.woff2) format("woff2"), url(fonts/roboto-v19-latin-ext_latin-700.d0cc855e64aca1072711f49d1a38ca0c.woff) format("woff"), url(fonts/roboto-v19-latin-ext_latin-700.a38acd56c951e3186485e2bbc688c80a.ttf) format("truetype");
+  src: local("Roboto Bold"), local("Roboto-Bold"), url(src/assets/fonts/roboto-v19-latin-ext_latin-700.1b13116aa31556ad3fbc445b387f0c61.eot?#iefix) format("embedded-opentype"), url(src/assets/fonts/roboto-v19-latin-ext_latin-700.52bb58c8cb04cf3eea4f9ac0afa1d1f6.woff2) format("woff2"), url(src/assets/fonts/roboto-v19-latin-ext_latin-700.d0cc855e64aca1072711f49d1a38ca0c.woff) format("woff"), url(src/assets/fonts/roboto-v19-latin-ext_latin-700.a38acd56c951e3186485e2bbc688c80a.ttf) format("truetype");
   /* Safari, Android, iOS */ }
 
 /* roboto-700italic - latin-ext_latin */
@@ -101,9 +101,9 @@ h3 {
   font-family: 'Roboto';
   font-style: italic;
   font-weight: 700;
-  src: url(fonts/roboto-v19-latin-ext_latin-700italic.14a96941e4dbae596f1954cf4a9c3bf2.eot);
+  src: url(src/assets/fonts/roboto-v19-latin-ext_latin-700italic.14a96941e4dbae596f1954cf4a9c3bf2.eot);
   /* IE9 Compat Modes */
-  src: local("Roboto Bold Italic"), local("Roboto-BoldItalic"), url(fonts/roboto-v19-latin-ext_latin-700italic.14a96941e4dbae596f1954cf4a9c3bf2.eot?#iefix) format("embedded-opentype"), url(fonts/roboto-v19-latin-ext_latin-700italic.df4326e0d7567c538f477b25dee6591a.woff2) format("woff2"), url(fonts/roboto-v19-latin-ext_latin-700italic.d10759b089c9f63453c01485af6e549c.woff) format("woff"), url(fonts/roboto-v19-latin-ext_latin-700italic.4634589088ce7c9b22f17af5a6028563.ttf) format("truetype");
+  src: local("Roboto Bold Italic"), local("Roboto-BoldItalic"), url(src/assets/fonts/roboto-v19-latin-ext_latin-700italic.14a96941e4dbae596f1954cf4a9c3bf2.eot?#iefix) format("embedded-opentype"), url(src/assets/fonts/roboto-v19-latin-ext_latin-700italic.df4326e0d7567c538f477b25dee6591a.woff2) format("woff2"), url(src/assets/fonts/roboto-v19-latin-ext_latin-700italic.d10759b089c9f63453c01485af6e549c.woff) format("woff"), url(src/assets/fonts/roboto-v19-latin-ext_latin-700italic.4634589088ce7c9b22f17af5a6028563.ttf) format("truetype");
   /* Safari, Android, iOS */ }
 
 * {
